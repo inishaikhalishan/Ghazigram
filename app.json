@@ -1,0 +1,30 @@
+"name": "Ghazigram",
+"description": "A powerfull multifutured userbot for telegram based on python."
+"keywords": [
+  "ghazigram"
+  "userbot"
+]
+"repository": "https://github.com/iniridwanul/Ciraag",
+  "env": {
+    "api_id": {
+      "description": "Kindly obtain your unique Telegram API ID from my.telegram.org and provide it confidentially. Please do not disclose this information to any third party.",
+      "value": "",
+      "required": true
+    },
+    "api_hash": {
+      "description": "Kindly obtain your unique Telegram API Hash from my.telegram.org and provide it confidentially. Please do not disclose this information to any third party.",
+      "value": "",
+      "required": true
+    },
+    "string_session": {
+      "description": "Please execute the Python script string_session.py using Python3 and retrieve the generated string session. This session data should be treated as strictly confidential and not shared with any external parties.",
+      "value": "",
+      "required": true
+    },
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
