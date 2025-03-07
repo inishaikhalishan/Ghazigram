@@ -4,7 +4,7 @@
 
 <p align="center">
 <b>Ghazigram</b><br/>
-A powerfull multifueture userbot for Telegram based on Python & Telthon library. 
+A powerfull multifutured userbot for Telegram based on Python & Telthon library. 
 </p>
 
 <p align="center">
