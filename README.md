@@ -7,5 +7,5 @@ A powerfull multifueture userbot for Telegram based on Python & Telthon library.
 More fueatures are coming soon.
 
 # Connections 
-[**Ghazigram Chat**](https://t.me/ghazigram_chat)
+[**Ghazigram Chat**](https://t.me/ghazigram_chat)/n
 [**Ghzigram Chhannel**](http://t.me/ghazigram)
