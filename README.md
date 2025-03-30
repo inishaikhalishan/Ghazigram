@@ -14,6 +14,7 @@ A powerfull multifutured userbot for Telegram based on Python & Telthon library.
 
 # Features
 > Text To speech.
+> Gemini Ai.
 
 More fueatures are coming soon.
 
