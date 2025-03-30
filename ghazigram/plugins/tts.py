@@ -8,7 +8,7 @@ from asyncio import sleep
 class Gtts():
     def __init__(self, Audio_path):
         print("Text To Speech Plugin Started")
-        @ghazigram.on(events.NewMessage(outgoing=True, pattern="/tts"))
+        @ghazigram.on(events.NewMessage(outgoing=True, pattern=".tts"))
         async def TTS(event):
                 clear = Clean(Audio_path)
                 message = event.message.text

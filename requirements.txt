@@ -2,3 +2,4 @@ google-generativeai
 gTTS
 Telethon
 dotenv
+ping3
